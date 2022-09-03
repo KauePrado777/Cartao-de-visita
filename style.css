@@ -1,0 +1,43 @@
+.image1{
+
+    list-style-image: url(/images/Insta.png);
+    
+
+}
+
+.image2{
+
+    list-style-image: url(/images/Twitter.png);
+
+}
+
+.image3{
+
+    list-style-image: url(/images/Youtube.png);
+
+}
+
+.back{
+
+    background-image: url(/images/backgorund.png);
+    width: 400px;
+    height: 200px;
+    background-size: cover;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 10%;
+
+}
+
+body{
+    background-color: black;
+}
+
+
+
+.link{
+    text-decoration: none;
+    color: black;
+}
+
